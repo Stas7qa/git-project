@@ -1,0 +1,6 @@
+# ignor logs
+logs/
+
+
+#ignore docs txt
+docs/*.txt
